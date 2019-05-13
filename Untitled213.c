@@ -59,7 +59,7 @@ struct node*display(struct node*node)
 if(node){display(node->left);
 printf("%d",node->data);
 display(node->right);}
-
+//linkedlist
 
 
 
